@@ -1,0 +1,13 @@
+{
+  "name": "hwk4",
+  "version": "1.0.0",
+  "description": "a robot app with some mongo action",
+  "main": "mongotest.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "margo",
+  "license": "ISC"
+}
